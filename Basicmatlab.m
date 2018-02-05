@@ -1,5 +1,5 @@
 %reading the image
-f=imread('C:\Users\Anish Bhagat\Desktop\matlab image\download.jpg');
+f=imread('download.jpg');
 %finding the size of the image
 size(f)
 % to store number of rows and column of image
